@@ -1,13 +1,14 @@
-package com.olawale.myreddit;
+package reddit;
 
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
+
+import com.olawale.myreddit.R;
  
 /**
  * As of now, all this activity does is create and
  * render a fragment.
  *
- * @author Hathy
  */
 public class MainActivity extends FragmentActivity {
      

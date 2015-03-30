@@ -1,4 +1,4 @@
-package com.olawale.myreddit;
+package reddit;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -13,12 +13,13 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
+
+import com.olawale.myreddit.R;
 	 
 	/**
 	 * While this looks like a lot of code, all this class
 	 * actually does is load the posts in to the listview.
 	 *
-	 * @author Hathy
 	 */
 	public class PostsFragment extends Fragment{
 	         

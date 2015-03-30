@@ -7,7 +7,8 @@
     <uses-sdk
         android:minSdkVersion="8"
         android:targetSdkVersion="22" />
-    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
@@ -15,7 +16,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.olawale.myreddit.MainActivity"
+            android:name="reddit.MainActivity"
             android:label="@string/title_activity_main" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -24,8 +25,13 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.olawale.myreddit.PostsFragment"
+            android:name="reddit.PostsFragment"
             android:label="@string/title_activity_posts_fragment" >
+        </activity>
+        <activity
+            android:name="reddit.LoginActivity"
+            android:label="@string/title_activity_login"
+            android:windowSoftInputMode="adjustResize|stateVisible" >
         </activity>
     </application>
 
