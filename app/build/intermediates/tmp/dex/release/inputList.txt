@@ -1,0 +1,14 @@
+C:\Users\Albert E\Downloads\MyReddit\app\build\intermediates\classes\release
+C:\Users\Albert E\Downloads\MyReddit\app\build\intermediates\pre-dexed\release\support-annotations-22.0.0-716548def2b1df6f7394ed922d80f854fa806bdc.jar
+C:\Users\Albert E\Downloads\MyReddit\app\build\intermediates\pre-dexed\release\jackson-annotations-2.5.0-6257a9b7794c496ba2c5310dc265300fec155b8b.jar
+C:\Users\Albert E\Downloads\MyReddit\app\build\intermediates\pre-dexed\release\slf4j-api-1.7.10-fefb4b3cd10becf1bb76c6af65663bdd8e786c53.jar
+C:\Users\Albert E\Downloads\MyReddit\app\build\intermediates\pre-dexed\release\okio-1.2.0-756ebdfd4e1b475faa3b689637ce45f5123f0afc.jar
+C:\Users\Albert E\Downloads\MyReddit\app\build\intermediates\pre-dexed\release\internal_impl-22.0.0-f21edc32544f0199f24c4b6f032ef1b9c7efaf82.jar
+C:\Users\Albert E\Downloads\MyReddit\app\build\intermediates\pre-dexed\release\JRAW-0.7.0.3-b07eb4ea462c8b4de774980cf3d7d77ca8baa1f1.jar
+C:\Users\Albert E\Downloads\MyReddit\app\build\intermediates\pre-dexed\release\jackson-core-2.5.0-f42bf47313b09dc142436fc1a292c6466bde8201.jar
+C:\Users\Albert E\Downloads\MyReddit\app\build\intermediates\pre-dexed\release\okhttp-2.2.0-106cf745439efd8f02485fbd7520ee394ed59351.jar
+C:\Users\Albert E\Downloads\MyReddit\app\build\intermediates\pre-dexed\release\classes-6021b20fd6bec8a0b2969f2ff58ab2b6f05ba743.jar
+C:\Users\Albert E\Downloads\MyReddit\app\build\intermediates\pre-dexed\release\classes-f72023926c785f70e08866a9169e7dee14587fdf.jar
+C:\Users\Albert E\Downloads\MyReddit\app\build\intermediates\pre-dexed\release\jackson-databind-2.5.0-14abda5df7d7191caf7bd2528ef8ed9dcc4a6671.jar
+C:\Users\Albert E\Downloads\MyReddit\app\build\intermediates\pre-dexed\release\classes-976da9a25f1d293d54b682d4b7c2d34ab88668ca.jar
+C:\Users\Albert E\Downloads\MyReddit\app\build\intermediates\pre-dexed\release\guava-18.0-8b1a1e9ff81ba38db0df0833a8060823b500f451.jar

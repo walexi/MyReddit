@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Albert E\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.5.0\b2ece1bd57ac7b4c315b7505b65ac79cb1da4270\jackson-core-2.5.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b2ece1bd57ac7b4c315b7505b65ac79cb1da4270">
+        <dex dex="C:\Users\Albert E\Downloads\MyReddit\app\build\intermediates\pre-dexed\release\jackson-core-2.5.0-f42bf47313b09dc142436fc1a292c6466bde8201.jar" />
+    </item>
+    <item
+        jar="C:\Users\Albert E\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.2.0\c0b52915a48fa91b1b94a28d4a2997bac5f524df\okio-1.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c0b52915a48fa91b1b94a28d4a2997bac5f524df">
+        <dex dex="C:\Users\Albert E\Downloads\MyReddit\app\build\intermediates\pre-dexed\release\okio-1.2.0-756ebdfd4e1b475faa3b689637ce45f5123f0afc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Albert E\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.5.0\489b7552dd3322b63f694122d16ce62c21c303b5\jackson-databind-2.5.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="489b7552dd3322b63f694122d16ce62c21c303b5">
+        <dex dex="C:\Users\Albert E\Downloads\MyReddit\app\build\intermediates\pre-dexed\release\jackson-databind-2.5.0-14abda5df7d7191caf7bd2528ef8ed9dcc4a6671.jar" />
+    </item>
+    <item
+        jar="C:\Users\Albert E\Downloads\MyReddit\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Albert E\Downloads\MyReddit\app\build\intermediates\pre-dexed\release\internal_impl-22.0.0-f21edc32544f0199f24c4b6f032ef1b9c7efaf82.jar" />
+    </item>
+    <item
+        jar="C:\Users\Albert E\Downloads\MyReddit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\4.2.42\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5f81129dfb3d02df80126512bc98278ed2bb40a">
+        <dex dex="C:\Users\Albert E\Downloads\MyReddit\app\build\intermediates\pre-dexed\release\classes-976da9a25f1d293d54b682d4b7c2d34ab88668ca.jar" />
+    </item>
+    <item
+        jar="C:\Users\Albert E\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.5.0\a2a55a3375bc1cef830ca426d68d2ea22961190e\jackson-annotations-2.5.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a2a55a3375bc1cef830ca426d68d2ea22961190e">
+        <dex dex="C:\Users\Albert E\Downloads\MyReddit\app\build\intermediates\pre-dexed\release\jackson-annotations-2.5.0-6257a9b7794c496ba2c5310dc265300fec155b8b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Albert E\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Albert E\Downloads\MyReddit\app\build\intermediates\pre-dexed\release\support-annotations-22.0.0-716548def2b1df6f7394ed922d80f854fa806bdc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Albert E\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\18.0\cce0823396aa693798f8882e64213b1772032b09\guava-18.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="C:\Users\Albert E\Downloads\MyReddit\app\build\intermediates\pre-dexed\release\guava-18.0-8b1a1e9ff81ba38db0df0833a8060823b500f451.jar" />
+    </item>
+    <item
+        jar="C:\Users\Albert E\.gradle\caches\modules-2\files-2.1\net.dean.jraw\JRAW\0.7.0.3\a5155a32737862e0c04afbdd9aad3f39deca1d94\JRAW-0.7.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a5155a32737862e0c04afbdd9aad3f39deca1d94">
+        <dex dex="C:\Users\Albert E\Downloads\MyReddit\app\build\intermediates\pre-dexed\release\JRAW-0.7.0.3-b07eb4ea462c8b4de774980cf3d7d77ca8baa1f1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Albert E\Downloads\MyReddit\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Albert E\Downloads\MyReddit\app\build\intermediates\pre-dexed\release\classes-f72023926c785f70e08866a9169e7dee14587fdf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Albert E\Downloads\MyReddit\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Albert E\Downloads\MyReddit\app\build\intermediates\pre-dexed\release\classes-6021b20fd6bec8a0b2969f2ff58ab2b6f05ba743.jar" />
+    </item>
+    <item
+        jar="C:\Users\Albert E\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.2.0\959c454243581fdf730abfd4f4745441724bcf2c\okhttp-2.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
+        <dex dex="C:\Users\Albert E\Downloads\MyReddit\app\build\intermediates\pre-dexed\release\okhttp-2.2.0-106cf745439efd8f02485fbd7520ee394ed59351.jar" />
+    </item>
+    <item
+        jar="C:\Users\Albert E\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.7.10\5b338f206827d88acd890739f400a9b7664e5984\slf4j-api-1.7.10.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5b338f206827d88acd890739f400a9b7664e5984">
+        <dex dex="C:\Users\Albert E\Downloads\MyReddit\app\build\intermediates\pre-dexed\release\slf4j-api-1.7.10-fefb4b3cd10becf1bb76c6af65663bdd8e786c53.jar" />
+    </item>
+
+</items>
